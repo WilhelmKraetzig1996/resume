@@ -1,0 +1,5 @@
+services:
+  latex_builder:
+    build: .
+    volumes:
+      - .:/latex

@@ -1,0 +1,25 @@
+ -  remove working student
+ -  ? only one-sided cv
+    -   clearer priority of information
+    -  remove information
+-   order
+    -   experience, project, educations, skills
+
+-   add all projects at dear reality to work experience
+    -   shorter text
+
+-   add autotune plugin as project if relevant
+
+-   don't add project if bad code quality
+
+-   title: what am i? 
+    -   leave introduction text in
+
+-   other activity: no text
+
+-   10pt font size
+
+-   Test Driven Development? yes, add it
+
+-   bachelor thesis: not working experience. move to education 
+    -   master thesis
